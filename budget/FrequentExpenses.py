@@ -12,4 +12,4 @@ def spending_categories():
 
 def spending_counter():
     collections.Counter(spending_categories)
-    print(spending_counter)
+        print(spending_counter)
